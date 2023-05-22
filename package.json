@@ -1,0 +1,27 @@
+{
+  "name": "bain-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianrich18/Bain-GPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianrich18/Bain-GPT/issues"
+  },
+  "homepage": "https://github.com/sebastianrich18/Bain-GPT#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "hnswlib-node": "^1.4.2",
+    "langchain": "^0.0.78",
+    "readline-sync": "^1.4.10"
+  }
+}

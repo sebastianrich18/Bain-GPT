@@ -1,3 +1,0 @@
-scrape the fandom webpage
-can go to all pages to get names
-important stuff is in div id=content
